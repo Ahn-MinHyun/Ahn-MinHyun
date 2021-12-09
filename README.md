@@ -13,9 +13,10 @@
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberry Pi&logoColor=white"/>
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/
- 
-  
+<br/>
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahn-Minhyun&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahn-Minhyun&show_icons=true&theme=buefy)
