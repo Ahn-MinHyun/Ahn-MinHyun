@@ -1,6 +1,7 @@
 <div align=center>
   
 ![waving](https://capsule-render.vercel.app/api?type=waving&color=8669AE&height=250&text=Welcome👋%20MinHyun's%20github&&fontAlignY=38&desc=record%20of%20journey%20from%20zookeeper%20to%20developer&fontSize=50&descAlignY=56&descAlign=60&animation=fadeIn)
+  ![image](https://user-images.githubusercontent.com/78781222/145522323-784fa8be-be04-4f31-b899-e92411064e57.png)
 
 <h1>Stack and Tools<h1/>
 
@@ -20,7 +21,6 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahn-Minhyun&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahn-Minhyun&show_icons=true&theme=buefy)
-
 
   
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=8669AE&section=footer)
