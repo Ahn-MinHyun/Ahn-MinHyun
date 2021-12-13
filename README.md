@@ -18,6 +18,8 @@
 
 # project INTRO
   ![image](https://user-images.githubusercontent.com/78781222/145785583-1d4c0c9a-5dd8-4440-9b04-3b488684a285.png)
+  [GITBOOK](https://dksalsgus.gitbook.io/movie-recommender-api/ "Minhyun's gitbook")
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=8669AE&section=footer)
 </div>
